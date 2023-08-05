@@ -32,6 +32,8 @@
     <code><img height="32" src="./assets/qt.png"></code>
     <code><img height="32" src="./assets/opengl.png"></code>
     <code><img height="32" src="./assets/vulkan.png"></code>
+    <code><img height="32" src="./assets/blazor.png"></code>
+    <code><img height="32" src="./assets/git.png"></code>
 </p>
 
 
