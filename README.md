@@ -1,26 +1,12 @@
-<h1 id="hello-i-am-elecfrog-">Hello, I am elecfrog! 👋.</h1>
-<p>I am a Graphics Master Graduate, from University of Leeds. 🚀</p>
+## id="hello-i-am-elecfrog-">Hello, I am elecfrog! 👋.
+## I am a Graphics Master Graduate, from University of Leeds. 🚀
+## I am seeking for a job in Game industry. 🎮
 
-<div align="center" style="display:flex ; align-items:center; justify-content: space-evenly; width:100% ; height: 30px">
-    <a href="#">
-        <img height="32" src="./assets/cv.png"/>
-        <h5 style="font-weight: 700"> ~~~~> CHECK OUT MY BIO <~~~~ </h5>
-    </a>
-    <a href="#">
-        <img height="32" src="./assets/cv.png"/>
-        <h5 style="font-weight: 700"> ~~~> AUTO GITHUB RESUME BIO <~~~ </h5>
-    </a>
-    <a href="#">
-        <img height="32" src="./assets/portfolio.png"/>
-        <h5 style="font-weight: 700"> ~~~> PORTFOLIO <~~~ </h5>
-    </a>
-</div>
+# Information
+[Resume](./assets/files/Resume_ZhouFanxiang.pdf)
+[Portfolio](https://elecfrog-portfolio.vercel.app/)
 
-<br/>
-
-<div align="center">
-    <h2> Tools & Languages </h2>
-</div>
+# Tools & Languages
 
 <p align="center">
     <code><img height="32" src="./assets/cpp.png"></code>
