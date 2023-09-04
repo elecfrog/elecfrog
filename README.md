@@ -1,23 +1,11 @@
-<h1 id="hello-i-am-elecfrog-">Hello, I am elecfrog! 👋.</h1>
-<p>I am a Graphics Master Graduate, from University of Leeds. 🚀</p>
-<p>I am seeking for a job in Game industry. 🎮</p>
+# Hello, I am elecfrog! 👋.
+I am a Graphics Master Graduate, from University of Leeds, seeking for a job in Game industry. 🎮
 
-<div align="center" style="display:flex ; align-items:center; justify-content: space-evenly; width:100% ; height: 30px">
-    <a href="./assets/files/Resume_ZhouFanxiang.pdf">
-        <img height="32" src="./assets/cv.png"/>
-        <h5 style="font-weight: 700"> ~~~~> CHECK OUT MY BIO <~~~~ </h5>
-    </a>
-    <a href="https://elecfrog-portfolio.vercel.app/">
-        <img height="32" src="./assets/portfolio.png"/>
-        <h5 style="font-weight: 700"> ~~~> PORTFOLIO <~~~ </h5>
-    </a>
-</div>
+[Resume](./assets/files/Resume_ZhouFanxiang.pdf)
 
-<br/>
+[Portfolio](https://elecfrog-portfolio.vercel.app)
 
-<div align="center">
-    <h2> Tools & Languages </h2>
-</div>
+## Tools & Languages
 
 <p align="center">
     <code><img height="32" src="./assets/cpp.png"></code>
@@ -38,10 +26,7 @@
 [![elecfrog's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elecfrog&theme=tokyonight&layout=compact)](https://github.com/elecfrog?tab=repositories)
 
 
-<div align="center">
-    <h2> Links </h2>
-</div>
-
+## Links
 <p align="center">
     <a href="https://www.linkedin.com/in/fanxiang-zhou-914a12284/" target="_blank">
         <img align="center" alt="elecfrog | LinkedIn" width="25px" src="./assets/linkedin.png"/>
