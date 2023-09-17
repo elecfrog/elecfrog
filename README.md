@@ -22,8 +22,8 @@ I am a Graphics Master Graduate, from University of Leeds, seeking for a job in 
 </p>
 
 
-[![elecfrog's github stats](https://github-readme-stats.vercel.app/api?username=elecfrog&count_private=true&include_all_commits=true&theme=radical)](https://github.com/elecfrog?tab=repositories)
-[![elecfrog's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elecfrog&theme=tokyonight&layout=compact)](https://github.com/elecfrog?tab=repositories)
+<!-- [![elecfrog's github stats](https://github-readme-stats.vercel.app/api?username=elecfrog&count_private=true&include_all_commits=true&theme=radical)](https://github.com/elecfrog?tab=repositories)
+[![elecfrog's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elecfrog&theme=tokyonight&layout=compact)](https://github.com/elecfrog?tab=repositories) -->
 
 
 ## Links
@@ -53,4 +53,4 @@ I am a Graphics Master Graduate, from University of Leeds, seeking for a job in 
 
 
 [github]: https://github.com/elecfrog/elecfrog/
-[linkedin]: https://www.linkedin.com/in/fanxiang-zhou-914a12284/
+[linkedin]: https://www.linkedin.com/in/fanxiang-zhou-499652291/
