@@ -52,5 +52,5 @@ I am a Graphics Master Graduate, from University of Leeds, seeking for a job in 
 </p> -->
 
 
-[github]: https://github.com/elecfrog/elecfrog/
-[linkedin]: https://www.linkedin.com/in/fanxiang-zhou-499652291/
+<!-- [github]: https://github.com/elecfrog/elecfrog/
+[linkedin]: https://www.linkedin.com/in/fanxiang-zhou-499652291/ -->
