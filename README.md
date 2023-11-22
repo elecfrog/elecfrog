@@ -1,9 +1,9 @@
 # Hello, I am elecfrog! 👋.
 I am a Graphics Master Graduate, from University of Leeds, seeking for a job in Game industry. 🎮
 
-[Resume](./assets/files/Resume_ZhouFanxiang.pdf)
+<!-- [Resume](./assets/files/Resume_ZhouFanxiang.pdf) -->
 
-[Portfolio](https://elecfrog-portfolio.vercel.app)
+<!-- [Portfolio](https://elecfrog-portfolio.vercel.app) -->
 
 ## Tools & Languages
 
@@ -27,7 +27,7 @@ I am a Graphics Master Graduate, from University of Leeds, seeking for a job in 
 
 
 ## Links
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.linkedin.com/in/fanxiang-zhou-499652291/" target="_blank">
         <img align="center" alt="elecfrog | LinkedIn" width="25px" src="./assets/linkedin.png"/>
     </a>
@@ -49,7 +49,7 @@ I am a Graphics Master Graduate, from University of Leeds, seeking for a job in 
     <a href="#" target="_blank">
         <img align="center" alt="elecfrog | Google Scholar" width="25px" src="./assets/scholar.png"/>
     </a>
-</p>
+</p> -->
 
 
 [github]: https://github.com/elecfrog/elecfrog/
